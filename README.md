@@ -1,11 +1,10 @@
 ---
-title: Build Dashboard
+title: Panel Template
 emoji: 📈
 colorFrom: gray
 colorTo: green
 sdk: docker
 pinned: false
-license: mit
 ---
 
-For info check out [Panel](https://panel.holoviz.org).
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference

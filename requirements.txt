@@ -1,6 +1,6 @@
 panel
-pandas
-hvplot
-openpyxl
-bokeh
-holoviews
+jupyter
+transformers
+numpy
+torch
+aiohttp
