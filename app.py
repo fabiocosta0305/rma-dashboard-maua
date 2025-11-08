@@ -549,7 +549,9 @@ pn.config.raw_css.append(custom_css)
 
 # Adiciona o layout ao template e o torna servável
 template.main.append(layout)
-template.servable()
+# template.servable()
+
+pn.server(template)
 
 # no fim do arquivo:
 # if __name__ == "__main__":
