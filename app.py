@@ -396,6 +396,7 @@ grafico_perfil_tendencia = perfil_familias_top.T.hvplot.line(
 # ------------------------------
 # 5. Layout e template
 # ------------------------------
+
 intro = pn.pane.Markdown("# Painel de Análise Socioassistencial - RMA 2024")
 
 # Cria o template com barra lateral
